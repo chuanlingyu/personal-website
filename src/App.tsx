@@ -22,7 +22,7 @@ export default function App() {
       <section id="home" className="hero container" aria-labelledby="intro-title">
         <div className="hero-copy">
           <p className="eyebrow hero-intro"><span className="tiny-cross" aria-hidden="true">✳</span> Hello, I’m Chuanling Yu.</p>
-          <h1 id="intro-title">Curious by nature.<br />Thoughtful <em>by design.</em></h1>
+          <h1 id="intro-title">Writing code.<br />Testing <em>ideas.</em></h1>
           <p className="hero-description">I study Computer Science + Philosophy at UIUC, with a minor in Statistics. I’m building a foundation in applied machine learning and software—and asking good questions along the way.</p>
           <div className="hero-actions"><a className="button button-primary" href="#work">Explore my work <Icon name="arrow" /></a><a className="text-link" href={profile.resume} download="Chuanling-Yu-Resume.pdf">Download résumé <Icon name="download" /></a></div>
           <p className="availability"><span className="status-dot" />Seeking Summer 2027 internships & research</p>
