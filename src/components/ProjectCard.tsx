@@ -1,7 +1,7 @@
 import type { Project } from '../data/portfolio'
 import { Icon } from './Icon'
 
-const projectIcons = { 'grade-predictor': 'code', 'skyline-3': 'network', 'low-vision-navigation': 'scan', 'digital-diary': 'book', plantroute: 'leaf' } as const
+const projectIcons = { 'grade-predictor': 'code', 'city-skyline': 'network', 'low-vision-navigation': 'scan', 'digital-diary': 'book', plantroute: 'leaf' } as const
 
 export function ProjectCard({ project }: { project: Project }) {
   const featured = project.id === 'grade-predictor'

@@ -8,7 +8,7 @@ Portfolio audit applied and checked October 24, 2026. All work remains local.
 - Increased project contribution and expanded-note text to 14–16px (14px on mobile). Supporting project labels, dates, tags, and metric captions are 12–13px; summaries and the code link are 14px.
 - Removed the body's 320px minimum width, allowed filters and metrics to wrap, allowed narrow content to shrink, and constrained decorative orbit dimensions to their container. No overflow-hiding rule was added. At the smallest widths the education and skills columns stack.
 - Grade Predictor shows 0.159 course-GPA MAE on 15,227 held-out samples and identifies approximately 76,000 records as the overall dataset. Evaluation context stays visible on mobile.
-- Skyline 3 distinguishes personal API/graph work from team status: map visualization uses bundled JSON; frontend/API integration, integrated traffic simulation, and optimization remain pending. The runtime-verification caveat is preserved.
+- City Skyline distinguishes personal API/graph work from team status: map visualization uses bundled JSON; frontend/API integration, integrated traffic simulation, and optimization remain pending. The runtime-verification caveat is preserved.
 
 ## Checks
 

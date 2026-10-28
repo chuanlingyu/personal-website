@@ -38,7 +38,7 @@ export const projects: Project[] = [
     ],
   },
   {
-    id: 'skyline-3', number: '02', title: 'Skyline 3', category: 'Software',
+    id: 'city-skyline', number: '02', title: 'City Skyline', category: 'Software',
     organization: 'UIUC team project', role: 'Team Member', period: 'Sep 2026 – present', ongoing: true,
     summary: 'Exploring how road networks can be represented and designed.',
     contribution: 'I’m working on FastAPI endpoint design for road-network nodes and edges, response schemas, and the organization of routers and services.',

@@ -1,6 +1,6 @@
 # Content sources & review notes
 
-Content initially reviewed October 22, 2026; audit updates applied October 24, 2026. The user's October 24 request supplied the Grade Predictor repository and held-out evaluation context and clarified Skyline 3 status. Original user-authorized sources:
+Content initially reviewed October 22, 2026; audit updates applied October 24, 2026. The user's October 24 request supplied the Grade Predictor repository and held-out evaluation context and clarified City Skyline status. Original user-authorized sources:
 
 1. **00 — Career Master Context.md** (updated October 17, 2026): education, skill scope, project overview, research interests, and Summer 2027 goal.
 2. **01 — Projects & Interview Stories.md** (updated October 17, 2026): direct contributions, project periods, Grade Predictor results, and limitations of ongoing projects.
@@ -14,7 +14,7 @@ CV and CL files in Drive are excluded. Career documents are factual reference ma
 | Item | Presentation |
 | --- | --- |
 | Grade Predictor | Historical team project, Feb–May 2026. Leadership and data/ML work attributed to Chuanling. The team’s course-GPA model achieved 0.159 MAE on 15,227 held-out samples; roughly 76,000 is the overall dataset scale. Evaluation context and the repository URL were supplied by the user in the October 24 portfolio audit request. |
-| Skyline 3 | In progress. Personal work covers API design and graph/GeoJSON representations. Existing notes identify node/edge API implementations and a map using bundled JSON; runtime verification remains pending. Frontend/API integration, integrated simulation, and optimization remain pending. Team status is separate from personal contributions. |
+| City Skyline | In progress. Personal work covers API design and graph/GeoJSON representations. Existing notes identify node/edge API implementations and a map using bundled JSON; runtime verification remains pending. Frontend/API integration, integrated simulation, and optimization remain pending. Team status is separate from personal contributions. |
 | Low-Vision Navigation | In progress. C++/CMake/ONNX inference prototype is demonstrated; obstacle navigation and a full perception pipeline are unverified. |
 | Digital Diary | Social/privacy features attributed to Chuanling; full AI implementation is not. |
 | PlantRoute | Hackathon project. Personal work covers recommendations, attraction ranking, and carbon-impact displays; AI coding assistance is disclosed in the notes. No ownership of the full itinerary/AI system is implied. |
