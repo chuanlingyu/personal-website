@@ -27,7 +27,7 @@ npm run preview
 - `src/data/portfolio.ts`: projects, personal contributions, status, interests, contact URLs, and résumé path.
 - `src/components/`: reusable navigation, project card, and icon components.
 - `src/styles.css`: Tailwind import, design tokens, responsive styling, and reduced-motion preferences.
-- `public/chuanling-yu-resume.pdf`: authorized export of “My Resume,” retrieved October 22, 2026. Replace when updating the résumé.
+- `public/Chuanling Yu Resume.pdf`: résumé PDF served by all download links. Keep `profile.resume` in `src/data/portfolio.ts` in sync when renaming this file.
 - `CONTENT_SOURCES.md`: factual provenance and scope decisions.
 
 The orbit illustration is decorative CSS, not a project screenshot or demo. Grade Predictor has the repository link supplied by the user; other projects have no invented links. Research topics are interests, not claims of research experience. Skills are separated into a foundation and areas currently developing.

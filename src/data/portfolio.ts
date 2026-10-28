@@ -19,7 +19,7 @@ export const profile = {
   email: 'chuanyuling@gmail.com',
   github: 'https://github.com/chuanlingyu',
   linkedin: 'https://www.linkedin.com/in/chuanling-yu',
-  resume: '/chuanling-yu-resume.pdf',
+  resume: '/Chuanling%20Yu%20Resume.pdf',
 }
 
 // Factual sources and accuracy decisions are documented in CONTENT_SOURCES.md.
